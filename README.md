@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2c2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-ffffff?style=flat&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20code-007acc?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 
 ⠀⠀⠀  
